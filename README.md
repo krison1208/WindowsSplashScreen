@@ -1,0 +1,2 @@
+# WindowsSplashScreen
+Test WindowsSplashScreen
